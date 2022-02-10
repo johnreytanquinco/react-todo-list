@@ -1,5 +1,7 @@
 # React Todo List
 
+Author: Test
+
 I have made this project to learn React by building applications.
 
 Not accepting any PRs, as of now.
